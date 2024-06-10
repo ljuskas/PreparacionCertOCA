@@ -16,6 +16,14 @@ public class ListPerformance {
         Añadir un elemento al inicio.
         Acceder al elemento en la posición 500,000.
         Eliminar el elemento en la posición 500,000.
+
+        RESULTADOS:
+        -Añade all:      Arraylist
+        -Añade final:    LinkedList
+        -Añade inicio:   LinkedList
+        -Acceso:         ArrayList
+        -Elimina:        ArrayList
+        Tiempo total todas las pruebas: ArrayList
     */
     public static void main(String[] args) {
         int size = 1_000_000;

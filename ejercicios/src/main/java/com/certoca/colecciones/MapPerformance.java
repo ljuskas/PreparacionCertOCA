@@ -15,6 +15,11 @@ public class MapPerformance {
         Añadir una entrada.
         Obtener un valor por clave.
         Eliminar una entrada.
+
+        RESULTADOS:
+        -Añadir:            HashMap
+        -Obtener por clave: HashMap
+        -Eliminar:          HashMap
      */
     public static void main(String[] args) {
         int size = 1_000_000;

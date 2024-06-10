@@ -15,6 +15,11 @@ public class SetPerformance {
         -Añadir un elemento.
         -Comprobar si un elemento existe.
         -Eliminar un elemento.
+
+        RESULTADOS:
+        -Añade:                 HashSet
+        -Comprobar existencia:  HashSet
+        -Eliminar:              HashSet
      */
 
     public static void main(String[] args) {
